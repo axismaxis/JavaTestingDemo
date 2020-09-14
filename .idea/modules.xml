@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EnumSerialization/EnumSerialization.iml" filepath="$PROJECT_DIR$/EnumSerialization/EnumSerialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaTestingDemo.iml" filepath="$PROJECT_DIR$/.idea/JavaTestingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
     </modules>
   </component>
 </project>
