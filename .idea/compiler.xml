@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="MultiThreading" />
         <module name="EnumSerialization" />
+        <module name="AdventOfCode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AdventOfCode" target="8" />
       <module name="EnumSerialization" target="1.5" />
+      <module name="MultiThreading" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdventOfCode/AdventOfCode.iml" filepath="$PROJECT_DIR$/AdventOfCode/AdventOfCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumSerialization/EnumSerialization.iml" filepath="$PROJECT_DIR$/EnumSerialization/EnumSerialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaTestingDemo.iml" filepath="$PROJECT_DIR$/.idea/JavaTestingDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
     </modules>
   </component>
 </project>
